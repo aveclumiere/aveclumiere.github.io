@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Sangyeub KIM"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/img/profile_pic.png"
   bio              : "Was mich nicht umbringt, macht mich stärker."
   location         : "Seoul, Republic of Korea"
   email            : "withlight.work@gmail.com"
