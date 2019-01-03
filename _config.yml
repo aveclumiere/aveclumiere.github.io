@@ -103,15 +103,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Sangyeub KIM"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Was mich nicht umbringt, macht mich stärker."
+  location         : "Seoul, Republic of Korea"
+  email            : "withlight.work@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:withlight.work@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
